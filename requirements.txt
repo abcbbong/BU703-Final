@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+spacy
+tqdm
+tensorflow
+scikit-learn
+datasets
+pillow
+ipython
